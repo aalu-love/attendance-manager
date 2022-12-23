@@ -1,0 +1,106 @@
+﻿.buttona {
+    text-align: center;
+}
+
+.loka {
+    text-align: center;
+    color: black;
+    font-family: Century Gothic;
+    font-size: 72px;
+    margin-top: 90px;
+}
+
+.resulta {
+    text-align: center;
+    font-size: 48px;
+    font-family: Century Gothic;
+}
+
+.wallpaper2 {
+    background-image: url('tata3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: auto;
+    width: auto;
+}
+
+.fea {
+    text-align: center;
+}
+
+.msg {
+    font-family: Cocogoose;
+    text-align: center;
+}
+
+.wallpaper3 {
+    background-image: url('tata1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.disstyle1 {
+    text-align: right;
+    width: 516px;
+}
+
+.disstyle2 {
+    width: 516px;
+    text-align: left;
+}
+
+.detail1 {
+    font-family: Berlin Sans FB;
+    font-size: 58px;
+    margin-top: 50px;
+}
+
+.wallpaper4 {
+    background-image: url('tata6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 100%;
+}
+.wallpaper4 input {
+    margin: 10px;
+}
+
+.logout-btn {
+    background-color: #74d6ff;
+    font-size: X-Large;
+    font-weight: 100;
+    height: 50px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-inline: auto;
+    font-weight: 700;
+    text-align: center;
+}
+
+table .label {
+    text-align:right;
+    padding-right: 5px;
+}
+table .data {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.table h1 {
+    text-align: center;
+}
+
+table td {
+    padding: 8px;
+}
+
+.button {
+    width: 100%;
+}
